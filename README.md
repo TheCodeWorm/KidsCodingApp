@@ -1,1 +1,1 @@
-# Helping Kids Code
+# Helping Kids Learn to Code
